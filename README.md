@@ -106,7 +106,7 @@ Git • GitHub • Linux • Nginx • Cloud Platforms
 ## 🌐 Connect With Me
 
 * Website: https://neodyit.in
-* Portfolio: https://dev.neodyit.in
+* Portfolio: https://mayank.neodyit.in
 * Email: [mayank@neodyit.in](mailto:mayank@neodyit.in)
 * Instagram: @codemaestro_mayank_
 
