@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mayank Tiwari
 
-### 🚀 Founder of Neody IT | Full-Stack Developer | SaaS Builder
+### 🚀 Founder of Neody IT | Full-Stack Developer | SaaS Builder | System Architect
 
 I'm a B.Tech CSE student from Bihar, India, passionate about building scalable software products, automation systems, and AI-powered solutions.
 
