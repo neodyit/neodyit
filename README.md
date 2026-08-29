@@ -1,117 +1,21 @@
-# Hi 👋, I'm Mayank Tiwari
 
-### 🚀 Founder of Neody IT | Full-Stack Developer | SaaS Builder | System Architect
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codemaestro_mayank_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayank@neodyit.in) 
 
-I'm a B.Tech CSE student from Bihar, India, passionate about building scalable software products, automation systems, and AI-powered solutions.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=neodyit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Currently building products that solve real-world problems in education, enterprise management, and business automation.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neodyit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 💼 About Me
-
-* 🔭 Founder of **Neody IT**
-* 🚀 Building **FlowSync** – Task & Performance Management System for Colleges
-* 🏢 Building **Prastiqo ERP** – Attendance & Salary Management Platform
-* 🤖 Interested in AI Integrations, Automation, and SaaS Products
-* 🌱 Currently learning **TypeScript, Java, System Design & Cloud Infrastructure**
-* 💬 Ask me about **React, PHP, Node.js, Python, SQL, Firebase, APIs, and SaaS Development**
-* 📫 Reach me at **[mayank@neodyit.in](mailto:mayank@neodyit.in)**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=neodyit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=neodyit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏗️ Featured Projects
-
-### 🎯 FlowSync
-
-Task Management & Performance Tracking Platform for Colleges.
-
-**Features**
-
-* Faculty Task Management
-* HOD Review Workflow
-* Department Leaderboards
-* Performance Analytics
-* Multi-College Architecture
-
----
-
-### 🏢 Prastiqo ERP
-
-Attendance & Salary Management System for Enterprises.
-
-**Features**
-
-* Shift Management
-* Overtime Calculation
-* Salary Automation
-* Loans & Advances
-* Employee Self-Service Portal
-
----
-
-### 🌐 Neody IT
-
-Software Development Company focused on:
-
-* Web Applications
-* Mobile Apps
-* AI Integrations
-* Enterprise Software
-* Backend Systems
-* Custom SaaS Solutions
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-React • Next.js • TypeScript • Tailwind CSS
-
-### Backend
-
-PHP • Node.js • Express.js • REST APIs
-
-### Database
-
-MySQL • PostgreSQL • MongoDB • Firebase
-
-### Mobile
-
-Flutter • React Native
-
-### DevOps & Tools
-
-Git • GitHub • Linux • Nginx • Cloud Platforms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neodyit&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neodyit&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neodyit&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-* Website: https://neodyit.in
-* Portfolio: https://mayank.neodyit.in
-* Email: [mayank@neodyit.in](mailto:mayank@neodyit.in)
-* Instagram: @codemaestro_mayank_
-
----
-
-### ⚡ Fun Fact
-
-I enjoy turning ideas into products and shipping them fast. Most of my learning comes from building real-world software used by actual users.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
