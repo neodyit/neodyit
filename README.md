@@ -1,31 +1,140 @@
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codemaestro_mayank_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayank@neodyit.in) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-## My Contribution snake
-![Contribution snake example](https://github.com/neodyit/neodyit/github-contribution-grid-snake.gif)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.gif />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=neodyit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neodyit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=neodyit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lofar.tech) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayank@neodyit.in)
 
 ---
-[![](https://komarev.com/ghpvc/?username=neodyit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hi, I'm Mayank Tiwari
+
+**Full-Stack Developer | System Architect | Founder of Neody IT | Tech Content Creator**
+
+I'm a Computer Science Engineering student at **CGC University, Mohali**, originally from **Siwan, Bihar**.  
+I’ve been exploring technology since Class 6 and turned that curiosity into a serious pursuit of software development, system design, and entrepreneurship.
+
+I believe technology is more than just writing code — it’s about understanding problems, designing efficient solutions, building scalable systems, and creating products that deliver real value.
+
+---
+
+### 🚀 About Me
+
+- Full-stack developer focused on practical, maintainable, and scalable solutions  
+- Passionate about web development, mobile apps, backend engineering, database architecture, API development & AI integration  
+- Strong interest in system architecture, product thinking, and solving real-world problems  
+- Continuous learner who prefers learning by building
+
+---
+
+### 🏢 Founder of Neody IT
+
+I founded **[Neody IT](https://neodyit.in)** — a technology initiative focused on building software products, websites, mobile applications, AI-powered solutions, backend systems, and custom digital infrastructure.
+
+Through Neody IT, I aim to transform ideas into usable digital products that help students, educational institutions, businesses, and everyday users.
+
+---
+
+### 📱 Creator of Lofar Tech
+
+I’m the creator of **[Lofar Tech](https://www.instagram.com/lofar.tech/)** — an Instagram-based technology education page that makes complex technical concepts easier to understand through short-form, engaging content.
+
+Content covers:
+- Artificial Intelligence & Machine Learning  
+- Data Analytics  
+- Programming & System Design  
+- Computer Science fundamentals  
+- Career-related tech topics  
+
+Style: Hindi-English explanations + animated typography + AI voiceovers + memes + conversational tone.
+
+---
+
+### 🛠️ Technical Skills
+
+**Frontend**  
+`JavaScript` `TypeScript` `React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `Alpine.js`
+
+**Backend**  
+`Node.js` `Express.js` `PHP` `Laravel` `Livewire` `Python` `Java`
+
+**Mobile**  
+`Flutter` `Dart`
+
+**Databases**  
+`MySQL` `PostgreSQL` `MongoDB` `SQLite` `Redis` `Firebase` `Supabase`
+
+**Cloud & DevOps**  
+`Vercel` `Google Cloud` `Cloudflare` `Firebase` `Nginx` `Apache`
+
+**Others**  
+`Git` `GitHub` `Socket.io` `Figma` `Canva`
+
+---
+
+### 📂 Projects & Product Concepts
+
+| Project | Description |
+|---------|-------------|
+| **Acadova** | Educational application focused on quizzes, assignments, assessments & online examination workflows with programming assessments and exam monitoring. |
+| **FlowSync** | Workflow & academic management system for institutional processes, user roles, sessions, and administrative activities. |
+| **Lumina Campus ERP** | Educational management system covering student management, attendance, timetables, library, fee management & educational resources. |
+| **Doomscroll** | Social application concept with creative interactions — snap posts into dust, move them to a Post Graveyard, and restore them later. |
+
+---
+
+### 🧠 My Approach to Engineering
+
+I believe a good developer should understand more than just syntax and frameworks.  
+Writing code is only one part of building reliable software. Good engineering also requires:
+
+- Logical thinking  
+- Architectural decisions  
+- Security awareness  
+- Debugging & testing  
+- Documentation  
+- Understanding the people who will use the product  
+
+I prefer **learning by building**. Whenever I encounter a new technology, I try to understand its underlying concepts and apply them to a real problem.
+
+---
+
+### 🎯 What I'm Working Toward
+
+- Become a strong software engineer and system architect  
+- Build reliable, scalable, and secure technology products through **Neody IT**  
+- Contribute to the developer community and open-source  
+- Continuously improve my engineering skills through real projects  
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=neodyit&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=neodyit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 🔗 Let's Connect
+
+- **GitHub**: [neodyit](https://github.com/neodyit)  
+- **Instagram**: [@lofar.tech](https://www.instagram.com/lofar.tech/)  
+- **Company**: [Neody IT](https://neodyit.in)  
+- **Location**: Mohali, Punjab, India  
+
+---
+
+> *"I don't just want to write code. I want to understand systems, solve problems, and build products that matter."*
+
+---
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neodyit/neodyit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neodyit/neodyit/output/github-contribution-grid-snake.svg">
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/neodyit/neodyit/output/github-contribution-grid-snake.svg">
+</picture>
