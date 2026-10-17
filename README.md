@@ -124,7 +124,7 @@ I prefer **learning by building**. Whenever I encounter a new technology, I try 
 - **GitHub**: [neodyit](https://github.com/neodyit)  
 - **Instagram**: [@lofar.tech](https://www.instagram.com/lofar.tech/)  
 - **Company**: [Neody IT](https://neodyit.in)  
-- **Location**: Mohali, Punjab, India  
+- **Location**: Siwan, Bihar, India  
 
 ---
 
