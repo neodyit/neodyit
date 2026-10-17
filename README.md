@@ -8,6 +8,12 @@
 ## My Contribution snake
 ![Contribution snake example](https://github.com/neodyit/neodyit/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=neodyit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=neodyit&theme=dark&hide_border=false)<br/>
